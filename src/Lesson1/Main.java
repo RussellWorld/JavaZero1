@@ -1,7 +1,4 @@
-package Lesson2;
-
-import java.util.Arrays;
-import java.util.Random;
+package Lesson1;
 
 public class Main {
     public static void main(String[] args) {
